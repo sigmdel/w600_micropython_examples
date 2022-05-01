@@ -1,0 +1,12 @@
+# .hgignore
+#
+
+syntax: glob
+
+.pio
+.vscode
+*.zip
+*.bak
+*.~
+secrets.py
+credentials.py
