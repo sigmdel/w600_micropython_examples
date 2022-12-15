@@ -1,6 +1,9 @@
 # w600_micropython_examples
 Simple MicroPython scripts on the Wemos W600-Pico development board.
 
+| :exclamation: | These scripts work with MicroPython version v1.10-282 preloaded on the W600-Pico. As pointed out by [LexxM3](issues/1), Robert Hammelrath (robert-hh) has not only ported MicroPython v1.19.1 to the W60X, but he also makes the `wm_w600*.fls` image files available in his [Shared-Stuff](https://github.com/robert-hh/Shared-Stuff) repository. It would be best to use one of these newer versions of MicroPython. This repository will be deleted or perhaps archived as soon as the scripts are updated. |
+|---------------|:------------------------|
+
 ## Source code to accompany [A First Look at the Winner Micro W600](https://sigmdel.ca/michel/ha/w600/first_look_w600_en.html).
 
 
